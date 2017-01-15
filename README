@@ -1,4 +1,10 @@
-This is your new Play application
+Implementing custom api on top of open weather api using Play2
 =================================
+Implementing for learning purposes
 
-This file will be packaged with your application, when using `activator dist`.
+Goals:
+*Get started with Play2
+*Create basic api to echo url parameters
+*Consume open weather service in application
+*Extract required json data from json objects
+*Build own api to get data
