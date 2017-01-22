@@ -6,5 +6,5 @@ Goals:
 *Get started with Play2 -- Implemented
 *Create basic api to echo url parameters -- Implemented
 *Consume open weather service in application -- Implemented
-*Extract required json data from json objects
-*Send data using own api
+*Extract required json data from json objects -- Implemented
+*Send data using own api -- Implemented
