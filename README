@@ -7,4 +7,4 @@ Goals:
 *Create basic api to echo url parameters -- Implemented
 *Consume open weather service in application -- Implemented
 *Extract required json data from json objects
-*Build own api to get data
+*Send data using own api
